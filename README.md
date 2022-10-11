@@ -28,3 +28,36 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahabmustafa&show_icons=true&locale=en" alt="shahabmustafa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahabmustafa&" alt="shahabmustafa" /></p>
+
+
+## ⚡️Github Contributions
+	
+<h4 align="center">Isometric view of contributions in the last year</h4>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+	</a>
+</p>
+
+
+## 🚀Github Metrics
+<p align="center">
+	<img width="625em" src="https://github.com/shahzaneer/shahzaneer/blob/main/github-metrics.svg" />
+</p>
+<br>
+
+## 🐛Github Magic Game
+<p align="center">
+  <img src="https://github.com/shahzaneer/shahzaneer/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+<br>
+
+## ❤ Views and Followers
+
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=shahzaneer">
+</a>
+<a href="https://github.com/shahzaneer?tab=followers"><img src="https://img.shields.io/github/followers/shahzaneer?label=Followers&style=social" alt="GitHub Badge"></a>
+
+ <br/>
+
