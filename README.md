@@ -30,29 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahabmustafa&" alt="shahabmustafa" /></p>
 
 
-## ⚡️Github Contributions
-	
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
 
-
-## 🚀Github Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/shahzaneer/shahzaneer/blob/main/github-metrics.svg" />
-</p>
-<br>
-
-
-## ❤ Views and Followers
-
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=shahzaneer">
-</a>
-<a href="https://github.com/shahzaneer?tab=followers"><img src="https://img.shields.io/github/followers/shahzaneer?label=Followers&style=social" alt="GitHub Badge"></a>
-
- <br/>
 
