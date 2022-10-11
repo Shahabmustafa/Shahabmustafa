@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Shahab Mustafa, a full-time full-stack freelance developer </div>  
+### <div align="center">I'm Shahab Mustafa, a Flutter and full-stack freelance developer </div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently a Student  
   
 
 - 🌱 I’m currently learning BS Computer Science  
