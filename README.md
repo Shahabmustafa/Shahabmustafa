@@ -1,4 +1,3 @@
-your_cool_intro (2).gif
 <div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoteaq29HDRFjGsp8CcDt-trziSRNjeEEWA&usqp=CAU" align="center" style="width: 100%" />
 </div>  
