@@ -95,10 +95,10 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShahabMustafa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
-
+</div> 
 
 
 ## Recent Blog Posts  
