@@ -1,4 +1,4 @@
-![gif from nerdy.dev](https://github.com/ShahabMustafa/argyleink/blob/master/argyleink-sm2.gif?raw=true)
+<div align='center'>github.com/argyleink/argyleink/blob/master/argyleink-sm2</div>
 <div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoteaq29HDRFjGsp8CcDt-trziSRNjeEEWA&usqp=CAU" align="center" style="width: 100%" />
 </div>  
