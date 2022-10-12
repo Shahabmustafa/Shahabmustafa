@@ -124,6 +124,11 @@
                 />
             </a></div>
             
+            <details>
+    <summary><b>🎁 Open me (HTML approach) </b></summary>
+    <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
+</details>
+            
        
 <br />
 ----
