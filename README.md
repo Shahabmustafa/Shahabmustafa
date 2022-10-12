@@ -1,4 +1,3 @@
-![Github Activity Graph](https://activity-graph.herokuapp.com/graph?Shahabmustafa=your_github_Shahabmustafa&theme=theme_name)<div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoteaq29HDRFjGsp8CcDt-trziSRNjeEEWA&usqp=CAU" align="center" style="width: 100%" />
 </div>  
   
