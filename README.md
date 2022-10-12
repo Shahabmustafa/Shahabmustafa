@@ -1,6 +1,4 @@
-<p align="center">
- <img src="URL_TO_YOUR_IMAGE_OR_GIF" width="100" height="100" />
-</p>
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=your_github_username&theme=theme_name)
 <div align="center">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoteaq29HDRFjGsp8CcDt-trziSRNjeEEWA&usqp=CAU" align="center" style="width: 100%" />
 </div>  
