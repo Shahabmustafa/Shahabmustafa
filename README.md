@@ -107,29 +107,7 @@
 </div> 
 
 
-## Recent Blog Posts  
-  
 
-<br/>  
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-            
 <details>
     <summary><b>🎁 Open me (HTML approach) </b></summary>
     <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
