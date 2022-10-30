@@ -14,7 +14,9 @@
 - 🔭 I’m currently a Student  
   
 
-- 🌱 I’m currently learning BS Computer Science  
+- 🌱 I’m currently learning BS Computer Science
+
+- 🌱 I'm Flutter Developer 
   
 
 - ❓ Ask me about anything related to Flutter and related technologies  
