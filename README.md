@@ -92,7 +92,8 @@
 </a>
 <a href="https://twitter.com/https://twitter.com/ShahabMustafa9" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
+</a>
+ 
 </div>  
   
 
@@ -118,4 +119,4 @@
        
 <br />
 ----
-<div align="center">Generated using <a href="#" target="_blank">Github Shahab Mustafa</a></div>
+<div align="center">Generated using <a href="https://shahabmustafa57portfolio.netlify.app/" target="_blank">Github Shahab Mustafa</a></div>
