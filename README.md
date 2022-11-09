@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning BS Computer Science(SOft)
 
-- 🌱 I'm Flutter Developer & Web Developer 
+- 🌱 I'm Flutter Developer & Full Stack Web Developer 
   
 
 - ❓ Ask me about anything related to Flutter and related technologies  
