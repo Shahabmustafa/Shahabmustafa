@@ -1,7 +1,5 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h1 class="mt-20 mb-0 text-lg">Shahab Mustafa</h1>
-<h3 class="lead text-muted mb-40">Front-End Developer</h3>
  <h2 align="center">I am Shahab Mustafa</h2>
  <p align="center">I am 20 Year old</p>
 </p>
@@ -79,6 +77,14 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 </td></tr></table>  
 
 <br/>  
+
+
+<div class="mb-40">
+    <div class="progress progress-2">
+        <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 97%;">60%</div>
+    </div>
+    <strong>FLUTTER</strong>
+</div>
 
 
 ## Connect with me  
