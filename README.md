@@ -106,9 +106,6 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 </a>
  
 </div>  
-  
-
-<br/>  
 
 
 ## Github Stats  
@@ -120,14 +117,10 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
 </div> 
 
-
-
 <details>
     <summary><b>🎁 Open me (HTML approach) </b></summary>
     <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif"/>
 </details>
-            
-       
-<br />
+
 ----
 <div align="center">Generated using <a href="https://shahabmustafa57portfolio.netlify.app/" target="_blank">Github Shahab Mustafa</a></div>
