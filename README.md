@@ -6,14 +6,11 @@
 
 <img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90" />
 </div>  
-  
-
+ 
 ### <div align="center">I'm Shahab Mustafa, a Flutter and full-stack freelance developer </div>  
-  
-
+ 
 - 🔭 I’m currently a Student  
-  
-
+ 
 - 🌱 I’m currently learning BS Computer Science(SOft)
 
 - 🌱 I'm Flutter Developer & Full Stack Web Developer 
@@ -23,9 +20,6 @@
 - ❓ Ask me about anything related to Flutter and related technologies  
 
 My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
-  
-
-<br/>  
 
 
 ## My Skill Set  
