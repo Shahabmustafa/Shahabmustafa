@@ -59,9 +59,6 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
 ### DevOps  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -71,10 +68,6 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 </div>
 
 </td></tr></table>  
-
-<br/>  
-
-
 <div class="mb-40">
     <div class="progress progress-2">
         <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 97%;">60%</div>
