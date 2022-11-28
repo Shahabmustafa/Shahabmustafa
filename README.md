@@ -6,9 +6,9 @@
 
 <img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90" />
 </div>  
- 
-### <div align="center">I'm Shahab Mustafa, a Flutter and full-stack freelance developer </div>  
- 
+
+<div align="center">I'm Shahab Mustafa, a Flutter and full-stack freelance developer </div>  
+
 - 🔭 I’m currently a Student  
  
 - 🌱 I’m currently learning BS Computer Science(SOft)
