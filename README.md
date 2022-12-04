@@ -26,9 +26,6 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -71,7 +68,6 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
     </div>
     <strong>FLUTTER</strong>
 </div>
-
 
 ## Connect with me  
 <div align="center">
