@@ -4,7 +4,7 @@
 </p>
  -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=800&lines=Hi%2C+I+am+Shahab+Mustafa;I+am+Full+Stack+Web+Developer+and+Flutter+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=800&lines=Hi%2C+I+am+Shahab+Mustafa;I'm+Flutter+%26++Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
 <img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90" />
 </div>  
