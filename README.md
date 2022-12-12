@@ -152,9 +152,7 @@ you're building for iOS ([Cupertino]) or other platforms ([Material]), along wit
 support for customizing or creating entirely new visual components.
 
 <p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/reflectly-hero-600px.png?raw=true" alt="Reflectly hero image"></p>
-
 ### Fast results
-
 Flutter is fast. It's powered by the same hardware-accelerated 2D graphics
 library that underpins Chrome and Android: [Skia]. We architected Flutter to
 support glitch-free, jank-free graphics at the native speed of your device.
@@ -180,7 +178,6 @@ development, regardless of your target platform. And accessing other native code
 is easy, with support for both FFI ([on Android][Android FFI], [on iOS][iOS FFI],
 [on macOS][macOS FFI], and [on Windows][Windows FFI]) as well as
 [platform-specific APIs][platform channels].
-
 Flutter is a fully open-source project, and we welcome contributions.
 Information on how to get started can be found in our
 [contributor guide](CONTRIBUTING.md).
