@@ -24,8 +24,6 @@
 - ❓ First time when i started code 'Heloo world'
 
 My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 ### Frontend  
@@ -39,7 +37,6 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
 ### Backend  
 <div align="center">  
@@ -86,11 +83,9 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 <a href="https://twitter.com/https://twitter.com/ShahabMustafa9" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
- 
 </div>  
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShahabMustafa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
