@@ -3,12 +3,10 @@
  <h2 align="center">I am Shahab Mustafa</h2>
 </p>
  -->
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=800&lines=Hi%2C+I+am+Shahab+Mustafa;I'm+Flutter+%26++Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
 <img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90" />
 </div>  
-
 <div align="center">I'm Shahab Mustafa, a Flutter and full-stack freelance developer </div>  
 
 - 🔭 I’m currently a Student  
@@ -145,7 +143,6 @@ graphics, video, text, and controls without limitation. Flutter includes a full
 [set of widgets][widget catalog] that deliver pixel-perfect experiences whether
 you're building for iOS ([Cupertino]) or other platforms ([Material]), along with
 support for customizing or creating entirely new visual components.
-
 <p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/reflectly-hero-600px.png?raw=true" alt="Reflectly hero image"></p>
 ### Fast results
 Flutter is fast. It's powered by the same hardware-accelerated 2D graphics
@@ -154,9 +151,7 @@ support glitch-free, jank-free graphics at the native speed of your device.
 Flutter code is powered by the world-class [Dart platform], which enables
 compilation to 32-bit and 64-bit ARM machine code for iOS and Android, as well
 as JavaScript for the web and Intel x64 for desktop devices.
-
 <p align="center"><img src="https://github.com/flutter/website/blob/main/src/assets/images/docs/homepage/dart-diagram-small.png?raw=true" alt="Dart diagram"></p>
-
 ### Productive development
 
 Flutter offers [stateful hot reload][Hot reload], allowing you to make changes to your code
