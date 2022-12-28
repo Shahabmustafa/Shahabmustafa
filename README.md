@@ -1,8 +1,3 @@
-<!-- <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">I am Shahab Mustafa</h2>
-</p>
- -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=800&lines=Hi%2C+I+am+Shahab+Mustafa;I'm+Flutter+%26++Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 
 <img src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90" />
