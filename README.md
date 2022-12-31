@@ -116,7 +116,6 @@ web, Windows, macOS, Linux or embedding it as the UI toolkit for a platform of
 your choice.
 
 ### Beautiful user experiences
-
 We want to enable designers to deliver their full creative vision without being
 forced to water it down due to limitations of the underlying framework.
 Flutter's [layered architecture] gives you control over every pixel on the
