@@ -86,10 +86,8 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
 </div> 
-
 ----
 <div align="center">Generated using <a href="https://shahabmustafa57portfolio.netlify.app/" target="_blank">Github Shahab Mustafa</a></div>
-
 ## Documentation
 * [Install Flutter](https://flutter.dev/get-started/)
 * [Flutter documentation](https://docs.flutter.dev/)
