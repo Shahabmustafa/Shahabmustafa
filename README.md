@@ -105,14 +105,11 @@ archive), the Flutter tool will download the Dart SDK from Google servers
 immediately when first run, as it is used to execute the `flutter` tool itself.
 This will also occur when Flutter is upgraded (e.g. by running the `flutter
 upgrade` command).
-
 ## About Flutter
-
 We think Flutter will help you create beautiful, fast apps, with a productive,
 extensible and open development model, whether you're targeting iOS or Android,
 web, Windows, macOS, Linux or embedding it as the UI toolkit for a platform of
 your choice.
-
 ### Beautiful user experiences
 We want to enable designers to deliver their full creative vision without being
 forced to water it down due to limitations of the underlying framework.
