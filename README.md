@@ -86,10 +86,3 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ShahabMustafa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-<br/>  
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zluvsand"/>
-</div> 
