@@ -9,7 +9,9 @@
 
 - 🌱 I'm Flutter Developer & Full Stack Web Developer 
   
-- 🌱 My Flutter Experience 3 Months
+- 🌱 I'm Currently Working in Flutter
+  
+- 🌱 My Flutter Experience 6 Months
 
 - ❓ Ask me about anything related to Flutter and related technologies 
 
@@ -52,15 +54,6 @@ My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
-</td></tr></table>  
-<div class="mb-40">
-    <div class="progress progress-2">
-        <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 97%;">60%</div>
-    </div>
-    <strong>FLUTTER</strong>
-</div>
-
-
 
 ## Connect with me  
 <div align="center">
