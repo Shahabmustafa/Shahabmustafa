@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=400&lines=Hi%2C+I+am+Shahab+Mustafa;I'm+Flutter+%26++Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 <br>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </div>  
 <div align="center">I'm Shahab Mustafa, a Flutter and full-stack freelance developer </div>  
 
