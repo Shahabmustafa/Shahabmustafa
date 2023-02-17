@@ -14,8 +14,6 @@
 
 - ❓ First time when i started code 'Heloo world'
 
-My Fiver Account https://www.fiverr.com/shahabmustafa32?up_rollout=true
-
 ## My Skill Set  
 
 <table><tr><td valign="top" width="33%">
