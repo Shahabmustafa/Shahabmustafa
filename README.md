@@ -7,7 +7,6 @@
 - 🌱 I'm Flutter Developer & Full Stack Web Developer 
   
 - 🌱 I'm Currently Working in Flutter
-  
 - 🌱 My Flutter Experience 6 Months
 
 - ❓ Ask me about anything related to Flutter and related technologies 
