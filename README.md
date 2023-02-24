@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=400&lines=Hi%2C+I+am+Shahab+Mustafa;I'm+Flutter+%26++Full+Stack+Web+Developer" alt="Typing SVG" /></a>
 <br>
 - 🔭 I’m currently a Student  
- 
 - 🌱 I’m currently learning BS Computer Science(SOft)
 
 - 🌱 I'm Flutter Developer & Full Stack Web Developer 
