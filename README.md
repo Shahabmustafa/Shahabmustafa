@@ -2,7 +2,6 @@
 <br>
 - 🔭 I’m currently a Student  
 - 🌱 I’m currently learning BS Computer Science(SOft)
-
 - 🌱 I'm Flutter Developer & Full Stack Web Developer 
 - 🌱 I'm Currently Working in Flutter
 - 🌱 My Flutter Experience 6 Months
