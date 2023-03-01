@@ -7,7 +7,6 @@
 - 🌱 My Flutter Experience 6 Months
 - ❓ Ask me about anything related to Flutter and related technologies 
 - ❓ First time when i started code 'Heloo world'
-
 ## My Skill Set  
 
 <table><tr><td valign="top" width="33%">
