@@ -7,7 +7,6 @@
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence .
 <h3>🛠 Tech Stack</h3>
-
 - 💻 &nbsp; Python | JavaScript | Dart | C++ | C  
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; Firebase Auth | Postman | Hive | Sqflite | Cloud Firebase | Google Map | Provider | Getx |
