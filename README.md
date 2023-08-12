@@ -18,12 +18,14 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahabmustafa&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahabmustafa&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="lalit's Github Stats">
-</br>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=Shahabmustafa&layout=compact&text_color=daf7dc&bg_color=151515)(https://github.com/Shahabmustafa/github-readme-stats)
-<h3> 🤝🏻 Connect with Me </h3>
-<p align="center">
-&nbsp; <a href="https://twitter.com//ShahabMustafa9" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/shahab-mustafa-842688211/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="mailto:shahabmustafa57@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p>
+Connect with me
+
+<a href="https://github.com/Shahabmustafa" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/ShahabMustafa9" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/shahab-mustafa-842688211" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
