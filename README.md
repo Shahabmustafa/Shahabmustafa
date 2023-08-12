@@ -13,18 +13,13 @@
 -  MVVM Architecture | Firebase Notification | Firebase Storage | GetAPI | PostAPI
 - 🔧 &nbsp; Google Collab | Visual Studio code  | Git | VS Code | Stack OverFlow
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
-
 <br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shahabmustafa&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
-
 <br/>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashimkhann1&show_icons=true&locale=en" alt="hashimkhann1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hashimkhann1&" alt="hashimkhann1" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahabmustafa&show_icons=true&locale=en" alt="Shahabmustafa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahabmustafa&" alt="Shahabmustafa" /></p>
 <br/>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimkhann1&show_icons=true&locale=en&layout=compact" alt="hashimkhann1" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shahabmustafa&show_icons=true&locale=en&layout=compact" alt="Shahabmustafa" /></p>
   <br/>
-
 Connect with me
 
 <a href="https://github.com/Shahabmustafa" target="_blank">
