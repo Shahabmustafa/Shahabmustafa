@@ -23,7 +23,6 @@
 <br/>
 
 
-  
 Connect with me
 <b>
 <a href="https://github.com/Shahabmustafa" target="_blank">
