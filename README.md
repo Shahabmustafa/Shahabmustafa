@@ -14,6 +14,10 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 <br>
 
+![Shahab Musatafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahabmustafa&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahabmustafa&theme=dark)
+
 <br/>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahabmustafa&show_icons=true&locale=en" alt="Shahabmustafa" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahabmustafa&" alt="Shahabmustafa" /></p>
