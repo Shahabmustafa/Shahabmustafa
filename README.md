@@ -20,6 +20,11 @@
 
 <b>
 
+<br/>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shahabmustafa&show_icons=true&locale=en" alt="Shahabmustafa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahabmustafa&" alt="Shahabmustafa" /></p>
+
+
 Connect with me
 <b>
 
