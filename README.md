@@ -4,7 +4,7 @@
 - 🔭 &nbsp; I’m currently Flutter and AI Chatbot Developer
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence .
+- 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence.
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python | JavaScript | Dart | C++ | C  
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap
