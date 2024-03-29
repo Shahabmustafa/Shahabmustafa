@@ -7,7 +7,6 @@
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence.
 <h3>🛠 Tech Stack</h3>
 - 💻 &nbsp; Python | JavaScript | Dart | C++ | C  
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap
 - 🛢 &nbsp; Firebase Auth | Postman | Hive | Sqflite | Cloud Firebase | Google Map | Provider | Getx | Bloc |
 -  MVVM Architecture | MVC Architecture | MVP Architecture | Firebase Notification | Firebase Storage | GetAPI | PostAPI
 - 🔧 &nbsp; Google Collab | Visual Studio code  | Git | VS Code | Stack OverFlow | Medium
