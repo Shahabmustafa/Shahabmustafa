@@ -47,7 +47,7 @@ I’m Shahab Mustafa, a passionate software developer from Pakistan 🇵🇰. I 
   <a href="https://linkedin.com/in/shahab-mustafa-842688211" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 5px;" />
   </a>
-  <a href="https://www.fiverr.com/shahabmustafa" target="_blank" rel="noopener">
+  <a href="https://www.fiverr.com/shahab_mustafa?source=gig_page&gigs=slug%3Adevelop-flutter-apps-for-android-ios-firebase-and-apis%2Cpckg_id%3A1" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/fiverr-%2317B96F.svg?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" style="margin: 0 5px;" />
   </a>
 </p>
