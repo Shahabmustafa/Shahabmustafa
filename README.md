@@ -1,38 +1,46 @@
-<h1> Hey there! I'm Shahab Mustafa</h1>
-<h2> A Passionate Software Developer From Pakistan 🇵🇰</h2>
-<h3> 👨🏻‍💻 About Me </h3>
-- 🔭 &nbsp; I’m currently Flutter Developer
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence.
-<h3>🛠 Tech Stack</h3>
-- 💻 &nbsp; Python | JavaScript | Dart | C++ | C  
-- 🛢 &nbsp; Firebase Auth | Postman | Hive | Sqflite | Cloud Firebase | Google Map | Provider | Getx | Bloc |
--  MVVM Architecture | MVC Architecture | MVP Architecture | Firebase Notification | Firebase Storage | GetAPI | PostAPI
-- 🔧 &nbsp; Google Collab | Visual Studio code  | Git | VS Code | Stack OverFlow | Medium
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
+# Hey there! I'm Shahab Mustafa 👋
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahabmustafa&" alt="Shahabmustafa" /></p>
+### A Passionate Software Developer from Pakistan 🇵🇰
 
+---
 
-Connect with me
+### 👨🏻‍💻 About Me
+- 🔭 Currently working as a **Flutter Developer**.
+- 🤔 Exploring new technologies and building impactful software solutions.
+- 🎓 Studying **Computer Science**, with interests in programming and mathematics.
+- 🌱 Enthusiast in **Full-Stack Development** and **Artificial Intelligence**.
 
-<b>
+---
 
-<a href="https://github.com/Shahabmustafa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ShahabMustafa9" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/shahab-mustafa-842688211" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> 
+### 🛠 Tech Stack
 
-## My Project:
-<img src="Blue Abstract Corporate YouTube Thumbnail copy 2.png" alt="ecommerce_api Splash Screen" width="800" height="450"/>
+- **Languages:** Python, JavaScript, Dart, C++, C  
+- **Mobile & Frontend:** Flutter, Provider, GetX, BLoC  
+- **Backend & Databases:** Firebase Auth, Firestore, Hive, SQLite  
+- **Architectures:** MVVM, MVC, MVP  
+- **Tools & Platforms:** Postman, Google Maps API, Firebase Notifications & Storage, Git, Visual Studio Code, Google Colab  
+- **Design:** Adobe XD, Illustrator, Photoshop, Figma  
 
-<img src="Blue Abstract Corporate YouTube Thumbnail copy.png" alt="ecommerce_api Splash Screen" width="800" height="450"/>
+---
 
-<img src="Blue Abstract Corporate YouTube Thumbnail.png" alt="ecommerce_api Splash Screen" width="800" height="450"/>
+### 🚀 What I Can Do
 
+- Build cross-platform mobile applications using Flutter with clean architecture and state management.
+- Develop backend APIs and integrate with frontend using RESTful services.
+- Implement authentication flows including Google Sign-In and Apple Sign-In.
+- Integrate secure payment gateways like Square.
+- Handle push notifications and local databases for offline support.
+- Work with modern design tools to create intuitive and user-friendly UI/UX.
+- Collaborate effectively in teams using Git and agile methodologies.
+
+---
+
+### 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shahabmustafa)  
+[![Twitter](https://img.shields.io/badge/twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ShahabMustafa9)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahab-mustafa-842688211)
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate.
