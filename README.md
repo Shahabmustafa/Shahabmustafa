@@ -1,12 +1,11 @@
 # Shahab Mustafa
 
-### Software Developer | Flutter Enthusiast | Problem Solver
+### Software Developer | Flutter Developer | Problem Solver
 
 ---
 
 ## 1. Introduction
 
-Assalamu Alaikum!  
 I’m Shahab Mustafa, a passionate software developer from Pakistan 🇵🇰. I specialize in building cross-platform mobile applications using Flutter and have a keen interest in full-stack development and artificial intelligence. Currently, I’m pursuing my studies in Computer Science, focusing on programming, mathematics, and emerging tech trends.
 
 ---
@@ -14,12 +13,12 @@ I’m Shahab Mustafa, a passionate software developer from Pakistan 🇵🇰. I 
 ## 2. Tools & Technologies I Work With
 
 - **Programming Languages:** Dart, Python, JavaScript, C++, C  
-- **Mobile & Frontend:** Flutter, Provider, GetX, BLoC, MVVM, MVC, MVP  
-- **Backend & APIs:** Laravel REST API, Firebase (Auth, Firestore, Notifications, Storage)  
-- **Payment Integration:** Square Payment Gateway  
-- **Authentication:** Google Sign-In, Apple Sign-In  
+- **Mobile & Frontend:** Flutter, Provider, Riverpod, GetX, BLoC, MVVM, MVC, MVP  
+- **Backend & APIs:** REST API, Web Sockets, Firebase (Auth, Firestore, Notifications, Storage)  
+- **Payment Integration:** Square, Google Pay, Apple Pay, Stripe, PayPal Payment Gateway  
+- **Authentication:** Google Sign-In, Apple Sign-In 
 - **Databases:** SQLite, Hive (Local Storage)  
-- **Other Tools:** Postman, Google Maps API, Git, Visual Studio Code, Google Colab  
+- **Other Tools:** Postman, Google Maps API, Git, Visual Studio Code, Google Colab ,DialogFlow
 - **Design Tools:** Adobe XD, Photoshop, Illustrator, Figma  
 
 ---
